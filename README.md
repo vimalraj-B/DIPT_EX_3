@@ -92,34 +92,41 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 ### Step1 : Histogram Equalization for Grayscale Images
 
+<img width="248" height="290" alt="image" src="https://github.com/user-attachments/assets/f1f20661-8cdc-4eac-a191-90aa3f22eef3" />
 
-<img width="384" height="234" alt="1" src="https://github.com/user-attachments/assets/2d3a94ac-87c3-4d82-bed0-eac247c8d96f" /><br>
+<img width="403" height="295" alt="image" src="https://github.com/user-attachments/assets/55e6b508-ecb9-44a4-aa04-f9e538963c09" />
 
+<img width="406" height="293" alt="image" src="https://github.com/user-attachments/assets/126653c6-d2e9-4063-a63b-50d48a71e573" />
 
-<img width="397" height="290" alt="image" src="https://github.com/user-attachments/assets/134ce2ea-4b12-407d-a993-1596ef721511" /><br>
+<img width="249" height="299" alt="image" src="https://github.com/user-attachments/assets/db57a2ac-a653-41ce-910c-ba99e08bb3a5" />
 
-
-<img width="398" height="289" alt="image" src="https://github.com/user-attachments/assets/3549e3a2-74a4-4c33-aa4e-2359f7c43aa3" /><br>
-
-
-<img width="405" height="236" alt="image" src="https://github.com/user-attachments/assets/8137f9db-daf1-4908-855e-fa7809ca3ce6" /><br>
 
 
 
 ### Step2 : Histogram Equalization for Color Images
 
+<img width="254" height="293" alt="image" src="https://github.com/user-attachments/assets/2f619121-787f-4545-8897-01e6e110b57b" />
+
+<img width="413" height="289" alt="image" src="https://github.com/user-attachments/assets/360fdb71-c785-4d69-9077-323a53cb0089" />
+
+<img width="454" height="162" alt="image" src="https://github.com/user-attachments/assets/5a25990b-c49b-48cf-9288-4b847a8b3434" />
+
+<img width="440" height="131" alt="image" src="https://github.com/user-attachments/assets/f77eede7-ca20-48c5-a684-c6b94f2b5ee4" />
 
 
-<img width="395" height="232" alt="image" src="https://github.com/user-attachments/assets/e17ffc96-fdd0-4b29-a352-2546b8c4a787" /><br>
 
 
-<img width="404" height="293" alt="image" src="https://github.com/user-attachments/assets/df6de317-de0e-41b1-a81c-716830f78c29" /><br>
 
 
-<img width="745" height="200" alt="image" src="https://github.com/user-attachments/assets/623f7f6f-20ca-4fd2-a99a-9b5f39cbb5c8" /><br>
 
 
-<img width="739" height="216" alt="image" src="https://github.com/user-attachments/assets/33b632c7-a630-4b63-b895-63df0366ff9a" /><br>
+
+
+
+
+
+
+
 
 
 ### Result :

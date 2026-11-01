@@ -109,7 +109,8 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 <br><img width="413" height="289" alt="image" src="https://github.com/user-attachments/assets/360fdb71-c785-4d69-9077-323a53cb0089" /></br>
 
-<br><img width="454" height="162" alt="image" src="https://github.com/user-attachments/assets/5a25990b-c49b-48cf-9288-4b847a8b3434" /></br>
+<br><img width="746" height="257" alt="image" src="https://github.com/user-attachments/assets/726c1bcc-fd45-45ae-9056-87600bfadbae" />
+</br>
 
 <br><img width="440" height="131" alt="image" src="https://github.com/user-attachments/assets/f77eede7-ca20-48c5-a684-c6b94f2b5ee4" /></br>
 
